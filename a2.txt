@@ -1,0 +1,7 @@
+root@ip-172-31-35-126:/home/ubuntu# cat >a1.txt
+root@ip-172-31-35-126:/home/ubuntu# cat >a1.txt
+root@ip-172-31-35-126:~# git init
+Initialized empty Git repository in /root/.git/
+root@ip-172-31-35-126:~# sudo su
+root@ip-172-31-35-126:~# cd /home/ubuntu/
+root@ip-172-31-35-126:/home/ubuntu# ls -l
